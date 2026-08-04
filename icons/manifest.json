@@ -38,10 +38,11 @@
     {"name": "studio/inspector/anchor-bottom-left", "path": "source/studio/inspector/anchor-bottom-left.svg"},
     {"name": "studio/inspector/anchor-bottom", "path": "source/studio/inspector/anchor-bottom.svg"},
     {"name": "studio/inspector/anchor-bottom-right", "path": "source/studio/inspector/anchor-bottom-right.svg"},
-    {"name": "studio/ribbon/tool-select", "path": "source/studio/ribbon/tool-select.svg", "source": "phosphor/hand-pointing-duotone"},
-    {"name": "studio/ribbon/tool-move", "path": "source/studio/ribbon/tool-move.svg", "source": "phosphor/arrows-out-cardinal-duotone"},
-    {"name": "studio/ribbon/tool-rotate", "path": "source/studio/ribbon/tool-rotate.svg", "source": "phosphor/arrow-clockwise-duotone"},
-    {"name": "studio/ribbon/tool-scale", "path": "source/studio/ribbon/tool-scale.svg", "source": "phosphor/arrows-out-simple-duotone"},
-    {"name": "studio/ribbon/snap", "path": "source/studio/ribbon/snap.svg", "source": "phosphor/magnet-duotone"}
+    {"name": "studio/ribbon/tool-select", "path": "source/studio/ribbon/tool-select.svg", "source": "phosphor/hand-pointing-duotone", "accent": "#F27A8D"},
+    {"name": "studio/ribbon/tool-move", "path": "source/studio/ribbon/tool-move.svg", "source": "phosphor/arrows-out-cardinal-duotone", "accent": "#8D7BE8"},
+    {"name": "studio/ribbon/tool-rotate", "path": "source/studio/ribbon/tool-rotate.svg", "source": "phosphor/arrow-clockwise-duotone", "accent": "#64A9E8"},
+    {"name": "studio/ribbon/tool-scale", "path": "source/studio/ribbon/tool-scale.svg", "source": "phosphor/arrows-out-simple-duotone", "accent": "#55C99A"},
+    {"name": "studio/ribbon/snap", "path": "source/studio/ribbon/snap.svg", "source": "phosphor/magnet-duotone", "accent": "#5298D8"},
+    {"name": "studio/ribbon/collision-aware", "path": "source/studio/ribbon/collision-aware.svg", "source": "phosphor/intersect-square-duotone", "accent": "#E3B85B"}
   ]
 }
