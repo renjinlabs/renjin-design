@@ -38,10 +38,10 @@
     {"name": "studio/inspector/anchor-bottom-left", "path": "source/studio/inspector/anchor-bottom-left.svg"},
     {"name": "studio/inspector/anchor-bottom", "path": "source/studio/inspector/anchor-bottom.svg"},
     {"name": "studio/inspector/anchor-bottom-right", "path": "source/studio/inspector/anchor-bottom-right.svg"},
-    {"name": "studio/ribbon/tool-select", "path": "source/studio/ribbon/tool-select.svg", "source": "phosphor/cursor"},
-    {"name": "studio/ribbon/tool-move", "path": "source/studio/ribbon/tool-move.svg", "source": "phosphor/arrows-out-cardinal"},
-    {"name": "studio/ribbon/tool-rotate", "path": "source/studio/ribbon/tool-rotate.svg", "source": "phosphor/arrow-clockwise"},
-    {"name": "studio/ribbon/tool-scale", "path": "source/studio/ribbon/tool-scale.svg", "source": "phosphor/arrows-out-simple"},
-    {"name": "studio/ribbon/snap", "path": "source/studio/ribbon/snap.svg", "source": "phosphor/magnet"}
+    {"name": "studio/ribbon/tool-select", "path": "source/studio/ribbon/tool-select.svg", "source": "phosphor/hand-pointing-duotone"},
+    {"name": "studio/ribbon/tool-move", "path": "source/studio/ribbon/tool-move.svg", "source": "phosphor/arrows-out-cardinal-duotone"},
+    {"name": "studio/ribbon/tool-rotate", "path": "source/studio/ribbon/tool-rotate.svg", "source": "phosphor/arrow-clockwise-duotone"},
+    {"name": "studio/ribbon/tool-scale", "path": "source/studio/ribbon/tool-scale.svg", "source": "phosphor/arrows-out-simple-duotone"},
+    {"name": "studio/ribbon/snap", "path": "source/studio/ribbon/snap.svg", "source": "phosphor/magnet-duotone"}
   ]
 }

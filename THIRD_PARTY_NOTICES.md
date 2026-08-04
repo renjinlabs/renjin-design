@@ -3,13 +3,13 @@
 ## Phosphor Icons
 
 The generic Studio command icons listed below use geometry from Phosphor
-Icons' regular-weight SVG set, with Renjin colour adaptations:
+Icons' duotone SVG set, with Renjin colour adaptations:
 
-- `studio/ribbon/tool-select`: `cursor`
-- `studio/ribbon/tool-move`: `arrows-out-cardinal`
-- `studio/ribbon/tool-rotate`: `arrow-clockwise`
-- `studio/ribbon/tool-scale`: `arrows-out-simple`
-- `studio/ribbon/snap`: `magnet`
+- `studio/ribbon/tool-select`: `hand-pointing-duotone`
+- `studio/ribbon/tool-move`: `arrows-out-cardinal-duotone`
+- `studio/ribbon/tool-rotate`: `arrow-clockwise-duotone`
+- `studio/ribbon/tool-scale`: `arrows-out-simple-duotone`
+- `studio/ribbon/snap`: `magnet-duotone`
 
 Source: <https://github.com/phosphor-icons/core>
 
