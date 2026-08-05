@@ -42,6 +42,7 @@
     {"name": "studio/ribbon/tool-move", "path": "source/studio/ribbon/tool-move.svg", "source": "phosphor/arrows-out-cardinal-duotone", "accent": "#8D7BE8"},
     {"name": "studio/ribbon/tool-rotate", "path": "source/studio/ribbon/tool-rotate.svg", "source": "phosphor/arrow-clockwise-duotone", "accent": "#64A9E8"},
     {"name": "studio/ribbon/tool-scale", "path": "source/studio/ribbon/tool-scale.svg", "source": "phosphor/arrows-out-simple-duotone", "accent": "#55C99A"},
+    {"name": "studio/ribbon/edit-pivot", "path": "source/studio/ribbon/edit-pivot.svg", "accent": "#E76F9A"},
     {"name": "studio/ribbon/snap", "path": "source/studio/ribbon/snap.svg", "source": "phosphor/magnet-duotone", "accent": "#5298D8"},
     {"name": "studio/ribbon/collision-aware", "path": "source/studio/ribbon/collision-aware.svg", "source": "phosphor/intersect-square-duotone", "accent": "#E3B85B"}
   ]
