@@ -45,6 +45,8 @@
     {"name": "studio/ribbon/edit-pivot", "path": "source/studio/ribbon/edit-pivot.svg", "accent": "#E76F9A"},
     {"name": "studio/ribbon/snap", "path": "source/studio/ribbon/snap.svg", "source": "phosphor/magnet-duotone", "accent": "#5298D8"},
     {"name": "studio/ribbon/collision-aware", "path": "source/studio/ribbon/collision-aware.svg", "source": "phosphor/intersect-square-duotone", "accent": "#E3B85B"},
+    {"name": "studio/ribbon/duplicate", "path": "source/studio/ribbon/duplicate.svg", "source": "phosphor/copy-duotone", "accent": "#C27AE8"},
+    {"name": "studio/ribbon/repeat", "path": "source/studio/ribbon/repeat.svg", "source": "phosphor/arrow-clockwise-duotone", "accent": "#5CC8C4"},
     {"name": "studio/ribbon/play", "path": "source/studio/ribbon/play.svg", "source": "phosphor/play-duotone", "accent": "#55C99A"},
     {"name": "studio/ribbon/stop", "path": "source/studio/ribbon/stop.svg", "source": "phosphor/stop-duotone", "accent": "#F27A8D"},
     {"name": "studio/ribbon/restart", "path": "source/studio/ribbon/restart.svg", "source": "phosphor/arrow-clockwise-duotone", "accent": "#64A9E8"}
